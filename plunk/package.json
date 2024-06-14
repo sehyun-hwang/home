@@ -1,0 +1,6 @@
+{
+  "name": "plunker-project",
+  "dependencies": {
+    "@aws-amplify/api": "^4.0.44"
+  }
+}
